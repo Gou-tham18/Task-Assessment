@@ -1,0 +1,14 @@
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node.js dependencies
+node_modules/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
